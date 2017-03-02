@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  margin: 0;
+  color: 443835;
+}
+
+header {
+  background-color: #fff;
+  padding-bottom: 12px;
+  padding-top: 9px;
+  margin-top: 20px;
+}
+
+article {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+footer {
+  color: red;
+}
+
+.gundam-thumbnail {
+  height: 50px;
+}
+
+.related-gundam {
+  text-align: center;
+  color: white;
+  background-color: gray;
+}
